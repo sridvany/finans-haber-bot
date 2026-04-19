@@ -77,7 +77,7 @@ INGILIZCE_KELIMELER = [
     "bankruptcy", "merger", "acquisition", "layoffs",
     "earnings beat", "earnings miss", "revenue", "profit", "loss",
     "unemployment", "jobs", "nonfarm", "payroll",
-    "debt", "deficit", "treasury", "yield", "bond",
+    "debt", "deficit", "treasury", "yield", "bond", "small and medium enterprises", 
 ]
 
 TUM_KELIMELER = TURKCE_KELIMELER + INGILIZCE_KELIMELER
