@@ -53,13 +53,13 @@ RSS_KAYNAKLARI = [
 TURKCE_KELIMELER = [
     "faiz", "enflasyon", "tcmb", "merkez bankası", "bütçe", "borç",
     "büyüme", "resesyon", "durgunluk", "stagflasyon",
-    "dolar", "euro", "sterlin", "yen", "kur", "döviz",
+    "dolar", "euro", "yen", "kur", "döviz",
     "altın", "petrol", "doğalgaz", "brent", "emtia",
     "borsa", "bist", "hisse", "endeks", "piyasa", "yatırım",
     "bitcoin", "kripto", "ethereum", "kripto para",
     "savaş", "çatışma", "yaptırım", "kriz", "gerilim", "seçim",
     "iflas", "halka arz", "birleşme", "kar", "zarar", "bilanço",
-    "ihracat", "ithalat", "cari açık", "ticaret",
+    "ihracat", "ithalat", "cari açık", "kobi",
     "işsizlik", "istihdam", "ücret",
     "vergi", "bütçe açığı", "hazine",
 ]
