@@ -68,15 +68,12 @@ INGILIZCE_KELIMELER = [
     "fed", "ecb", "interest rate", "inflation", "gdp", "recession",
     "rate hike", "rate cut", "powell", "lagarde", "central bank",
     "s&p", "nasdaq", "dow jones", "stocks", "earnings", "ipo",
-    "market crash", "bull market", "bear market", "rally", "selloff",
     "gold", "oil", "crude", "brent", "opec", "commodities",
     "dollar", "euro", "yen", "currency", "forex",
-    "bitcoin", "ethereum", "crypto", "blockchain", "sec", "etf",
     "war", "sanctions", "tariff", "trade war", "trump", "china",
     "middle east", "brics", "geopolitical",
-    "bankruptcy", "merger", "acquisition", "layoffs",
+    "bankruptcy",
     "earnings beat", "earnings miss", "revenue", "profit", "loss",
-    "unemployment", "jobs", "nonfarm", "payroll",
     "debt", "deficit", "treasury", "yield", "bond", "small and medium enterprises", 
 ]
 
