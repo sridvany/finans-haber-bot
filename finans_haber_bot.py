@@ -68,7 +68,7 @@ TURKCE_KELIMELER = [
     "iflas", "halka arz", "birleşme", "kar", "zarar", "bilanço",
     "ihracat", "ithalat", "cari açık", "kobi",
     "işsizlik", "istihdam", "ücret",
-    "vergi", "erdoğan", "hazine",
+    "vergi", "bütçe açığı", "hazine",
 ]
 
 INGILIZCE_KELIMELER = [
