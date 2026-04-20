@@ -39,6 +39,13 @@ RSS_KAYNAKLARI = [
     {"url": "https://tr.investing.com/rss/news.rss",                     "kaynak": "Investing.com TR"},
     {"url": "https://www.hurriyet.com.tr/rss/ekonomi",                   "kaynak": "Hürriyet Ekonomi"},
     {"url": "https://www.sabah.com.tr/rss/ekonomi.xml",                  "kaynak": "Sabah Ekonomi"},
+    {"url": "https://www.cumhuriyet.com.tr/rss/ekonomi.xml",             "kaynak": "Cumhuriyet Ekonomi"},
+    {"url": "https://www.milliyet.com.tr/rss/ekonomi",                   "kaynak": "Milliyet Ekonomi"},
+    {"url": "https://www.yenisafak.com/rss/ekonomi.xml",                 "kaynak": "Yeni Şafak Ekonomi"},
+    {"url": "https://www.sozcu.com.tr/rss/ekonomi",                      "kaynak": "Sözcü Ekonomi"},
+    {"url": "https://www.dunya.com/rss/economyNews",                     "kaynak": "Dünya Gazetesi"},
+    {"url": "https://capital.com.tr/rss/feed.xml",                       "kaynak": "Capital"},
+    {"url": "https://www.finansturk.com/rss",                            "kaynak": "Finans Türk"},
     # İngilizce
     {"url": "https://feeds.reuters.com/reuters/businessNews",            "kaynak": "Reuters Business"},
     {"url": "https://feeds.bbci.co.uk/news/business/rss.xml",           "kaynak": "BBC Business"},
