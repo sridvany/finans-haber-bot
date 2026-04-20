@@ -57,7 +57,7 @@ TURKCE_KELIMELER = [
     "altın", "petrol", "doğalgaz", "brent", "emtia",
     "borsa", "bist", "hisse", "endeks", "piyasa", "yatırım",
     "bitcoin", "kripto", "ethereum", "kripto para",
-    "savaş", "çatışma", "yaptırım", "kriz", "gerilim", "seçim",
+    "savaş", "veri merkezi", "yaptırım", "kriz", "gerilim", "seçim",
     "iflas", "halka arz", "birleşme", "kar", "zarar", "bilanço",
     "ihracat", "ithalat", "cari açık", "kobi",
     "işsizlik", "istihdam", "ücret",
